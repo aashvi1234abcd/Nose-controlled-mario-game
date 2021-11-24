@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to left bottom, #ff0091, #ff356d, #ff624c, #ff8a2c, #ffaf0f, #ffa305, #ff9600, #ff8900, #ff2f36, #ff006f, #dc00b7, #0002ff);
+}
+
+#instructionsbutton{
+    float: right;
+    font-size: large;
+    background-color: #ff624c;
+}
+
+#header{
+    display: inline;
+
+}
+
+#heading_and_instructions{
+    text-align: left;
+    font-size: large;
+}
+#marioimage{
+    width: 700px;
+    height: 300px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+#gameconsole{
+    width: 100%;
+}
